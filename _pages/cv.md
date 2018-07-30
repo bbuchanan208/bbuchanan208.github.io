@@ -11,16 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.S. in Exercise Science, University of Connecticut, 2014
+* B.S. in Computer Science, University of Connecticut, 2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2015 - Spring 2017: Airman, United States Navy
+  * Assisted in the upkeep of lifesaving equipment on the flight desk of the USS Wasp
+  * Responded to 25+ emergencies on the flight deck
+  * Awarded a letter of Commendation, AB of the Month and Honorably discharged from service
 
 * Fall 2015: Research Assistant
   * Github University
@@ -29,31 +28,16 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: Familiar with Python, Java, Scheme
+* Software: Familiar with Android Studio, Git, PyCharm
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Instructor, Crisis Intervention Team Training, Connecticut Alliance to Benefit Law Enforcement
+  * Delivered 30 minute presentations to FBI, Police and First Responders about suicide recognition and prevention multiple times a year
+* Race Director, TKE/Autism Speaks 5K
+  * Led a team that resulted in increasing race proceeds from less than $15,000 in 2013 to over $31,000 in 2014
+* President Tau Kappa Epsilon, Delta Gamma Chapter
+  * Led a 70+ person fraternity to achieve “Most Improved” status by the University of Connecticut
+  * Nationally recognized as a “Top TKE” and locally recognized as an “Outstanding Chapter President”
