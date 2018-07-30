@@ -16,15 +16,13 @@ Education
 
 Work experience
 ======
+
+* Fall 2017 - Spring 2018: Special Events Coordinator
+  * Assisted in the set up and execution of events that involved hundreds of students
 * Spring 2015 - Spring 2017: Airman, United States Navy
   * Assisted in the upkeep of lifesaving equipment on the flight desk of the USS Wasp
   * Responded to 25+ emergencies on the flight deck
   * Awarded a letter of Commendation, AB of the Month and Honorably discharged from service
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
