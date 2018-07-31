@@ -35,7 +35,7 @@ Service and leadership
 * Instructor, Crisis Intervention Team Training, Connecticut Alliance to Benefit Law Enforcement
   * Delivered 30 minute presentations to FBI, Police and First Responders about suicide recognition and prevention multiple times a year
 * Race Director, TKE/Autism Speaks 5K
-  * Led a team that resulted in increasing race proceeds from less than \$15,000 in 2013 to over \$31,000 in 2014
+  * Led a team that resulted in increasing race proceeds from less than \\textdollar 15,000 in 2013 to over \\textdollar 31,000 in 2014
 * President Tau Kappa Epsilon, Delta Gamma Chapter
   * Led a 70+ person fraternity to achieve “Most Improved” status by the University of Connecticut
   * Nationally recognized as a “Top TKE” and locally recognized as an “Outstanding Chapter President”
