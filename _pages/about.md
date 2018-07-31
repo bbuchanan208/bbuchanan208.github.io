@@ -8,3 +8,4 @@ redirect_from:
   - /about.html
 ---
 
+* I am a Junior at the [University of Connecticut](https://uconn.edu/) studying [Computer Science](https://www.cse.uconn.edu/).
