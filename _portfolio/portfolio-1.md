@@ -1,5 +1,5 @@
 ---
-title: "UConn Outdoors Android Application"
+title: "UConn Outdoors, Android Application"
 excerpt: "This Android Application was designed for a course on Udacity. A user wanting to learn more about trips that UConn Outdoors hosts could use this application to get information. <br/><img src='/images/ucoutdoors.png'>"
 collection: portfolio
 ---
